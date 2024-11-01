@@ -1,3 +1,6 @@
+### Seguindo os passos do curso FastAPI
+[FastAPI](https://fastapi.tiangolo.com/)
+
 ### Habilitar o ambiente virtual para que o poetry enxergue as dependencias
 
 poetry shell
