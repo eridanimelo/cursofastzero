@@ -27,3 +27,7 @@ fastapi dev meuarquivo.py
 * Após a instalação do Alembic, precisamos iniciá-lo em nosso projeto. O comando de inicialização criará um diretório migrations e um arquivo de configuração alembic.ini
 * alterar o arquivo migrations/env.py para entender o projeto mapeado
 * depois executar o código ***alembic revision --autogenerate -m "create users table"***
+
+### JWT
+* para gerar o JWT usamos
+* **poetry add pyjwt "pwdlib[argon2]"**
